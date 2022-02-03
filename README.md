@@ -184,7 +184,10 @@ kemudian `ctrl + C` untuk mematikan node-red
     ```
 
     ![Login Node-Red](Images/loginNodered.jpg)
-
+    
+    ```
+    node-red
+    ```
 ---
 
 ## Influx DB
