@@ -188,6 +188,8 @@ kemudian `ctrl + C` untuk mematikan node-red
     ```
     node-red
     ```
+    
+    Click CTRL + A, D
 ---
 
 ## Influx DB
