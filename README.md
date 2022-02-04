@@ -428,7 +428,7 @@ Kemudian jalankan file `publisher.py`, maka akan muncul measurement baru yang su
 2. Gunakan database yang sesuai, pada kasus diatas `air`<br>
 
     ```sql
-    USE air
+    USE AIR
     ```
 
 3. Tampilkan measurements dari database `air`<br>
